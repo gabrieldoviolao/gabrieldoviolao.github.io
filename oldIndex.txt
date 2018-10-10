@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html>
 <head>
     <meta charset="UTF-8" />
@@ -44,7 +44,6 @@
  
 <body> 
 	<div id="fb-root"></div>
-	
 	
 	
 	<!-- The canvas must be inside a div called c2canvasdiv -->
