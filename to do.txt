@@ -1,0 +1,13 @@
+aumentar botao de atirar
+	flash when out of ammo
+dimunuir botoes de virar
+	usar swipe?
+aumentar teclado
+tela com instrucoes no inicio
+	restart (f5)
+highlight ?
+esconder b de dentro do parentesis mais pra frente
+
+asteroid game sprite sheet
+
+fundo que se mexe (
