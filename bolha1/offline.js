@@ -1,0 +1,31 @@
+﻿{
+	"version": 1540080009,
+	"fileList": [
+		"data.js",
+		"c2runtime.js",
+		"jquery-2.1.1.min.js",
+		"offlineClient.js",
+		"images/background-sheet0.png",
+		"images/bubble-sheet0.png",
+		"images/calculator-sheet0.png",
+		"images/region7-sheet0.png",
+		"images/buttonerase-sheet0.png",
+		"images/hearthud-sheet0.png",
+		"images/hearthud-sheet1.png",
+		"images/bggameover-sheet0.png",
+		"images/gameovertext-sheet0.png",
+		"media/gotsmallbubble1.ogg",
+		"media/gotbigbubble.ogg",
+		"media/gotsmallbubble2.ogg",
+		"media/missedbigbubble.ogg",
+		"media/missedsmallbubble.ogg",
+		"media/outofammo.ogg",
+		"media/level up 4.ogg",
+		"icon-16.png",
+		"icon-32.png",
+		"icon-114.png",
+		"icon-128.png",
+		"icon-256.png",
+		"loading-logo.png"
+	]
+}
